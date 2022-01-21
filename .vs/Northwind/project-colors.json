@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e9ef4701-22f9-44be-9f11-4b66da0920b0": {
+      "ProjectGuid": "e9ef4701-22f9-44be-9f11-4b66da0920b0",
+      "DisplayName": "Northwind.Entity",
+      "ColorIndex": 0
+    },
+    "45d6d688-8262-4ae7-997f-e9dde1b5e44b": {
+      "ProjectGuid": "45d6d688-8262-4ae7-997f-e9dde1b5e44b",
+      "DisplayName": "Northwind.WebApi",
+      "ColorIndex": 1
+    },
+    "a3b20793-4e90-44a4-81aa-34fbc0edae84": {
+      "ProjectGuid": "a3b20793-4e90-44a4-81aa-34fbc0edae84",
+      "DisplayName": "Northwind.Bll",
+      "ColorIndex": 2
+    },
+    "48ef6a41-4828-4aac-bcab-b00d2c690055": {
+      "ProjectGuid": "48ef6a41-4828-4aac-bcab-b00d2c690055",
+      "DisplayName": "Northwind.Interface",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
